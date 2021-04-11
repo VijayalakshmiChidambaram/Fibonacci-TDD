@@ -1,0 +1,38 @@
+x canary test
+
+FibonacciImperative
+x fibonacci for position 0
+x fibonacci for position 1
+x fibonacci for position 2
+x fibonacci for position 3
+x fibonacci for position 5
+x fibonacci for position 10
+x fibonacci for position -1
+
+FibonacciFunctional
+x fibonacci for position 0
+x fibonacci for position 1
+x fibonacci for position 2
+x fibonacci for position 3
+x fibonacci for position 5
+x fibonacci for position 10
+x fibonacci for position -1
+
+FibonacciSimpleRecursion
+x fibonacci for position 0
+x fibonacci for position 1
+x fibonacci for position 2
+x fibonacci for position 3
+x fibonacci for position 5
+x fibonacci for position 10
+x fibonacci for position -1
+
+FibonacciMemoizedRecursion
+x fibonacci for position 0
+x fibonacci for position 1
+x fibonacci for position 2
+x fibonacci for position 3
+x fibonacci for position 5
+x fibonacci for position 10
+x fibonacci for position -1
+x verify memoized is 10 times faster than the recursive
